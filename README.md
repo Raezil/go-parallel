@@ -1,6 +1,6 @@
 # go-parallel
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/your-username/go-parallel.svg)](https://pkg.go.dev/github.com/your-username/go-parallel)
+[![Go Reference](https://pkg.go.dev/badge/github.com/Raezil/go-parallel.svg)](https://pkg.go.dev/github.com/your-username/go-parallel)
 
 A Go client for the Parallel API, a powerful platform for web search, data extraction, and intelligent task automation.
 
@@ -18,10 +18,9 @@ This Go client provides a simple and idiomatic way to interact with the Parallel
 ## Installation
 
 ```bash
-go get github.com/your-username/go-parallel
+go get github.com/Raezilgo-parallel
 ```
 
-*(Note: Replace `your-username` with the actual path when this is a real repository)*
 
 ## Usage
 
@@ -30,7 +29,7 @@ go get github.com/your-username/go-parallel
 First, create a new client with your API key:
 
 ```go
-import "github.com/your-username/go-parallel"
+import "github.com/Raezil/go-parallel"
 
 func main() {
     apiKey := "your-parallel-api-key"
